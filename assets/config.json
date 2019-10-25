@@ -1,0 +1,17 @@
+{
+  "rootAPI": "/api/v2/",
+  "port": 8081,
+  "db": {
+    "host": "localhost",
+    "database": "growing",
+    "user": "root",
+    "password": "root"
+  },
+  "errors": {
+    "wrongID": "It's a wrong id",
+    "wrongMaxValue": "wrong max value",
+    "nameAlreadyTaken": "name already taken",
+    "noNameValue": "no name value",
+    "sameName": "same name"
+  }
+}
